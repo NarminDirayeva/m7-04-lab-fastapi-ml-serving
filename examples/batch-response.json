@@ -1,0 +1,21 @@
+{
+  "request_id": "a51bd420-1b22-4c31-987a-31a890cbdd52",
+  "model_version": "resnet-vit-v2.4.1",
+  "results": {
+    "client_img_001": {
+      "request_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "model_version": "resnet-vit-v2.4.1",
+      "labels": [
+        {
+          "name": "adult_content",
+          "confidence": 0.963
+        }
+      ]
+    },
+    "client_img_002": {
+      "code": "INVALID_IMAGE",
+      "message": "The provided image string could not be decoded or the file structure is corrupt.",
+      "request_id": "c1a013d5-e2a1-4f05-8869-702315fa76cd"
+    }
+  }
+}

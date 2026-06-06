@@ -1,0 +1,5 @@
+{
+  "code": "PAYLOAD_TOO_LARGE",
+  "message": "The base64 encoded image string size exceeds the maximum allowed threshold of 5 MB.",
+  "request_id": "8c3b7a5a-1de4-49c0-9d8a-82121345d9fa"
+}

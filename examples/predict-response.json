@@ -1,0 +1,18 @@
+{
+  "request_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+  "model_version": "resnet-vit-v2.4.1",
+  "labels": [
+    {
+      "name": "prohibited_weapons",
+      "confidence": 0.981
+    },
+    {
+      "name": "graphic_violence",
+      "confidence": 0.845
+    },
+    {
+      "name": "safe_for_work",
+      "confidence": 0.012
+    }
+  ]
+}

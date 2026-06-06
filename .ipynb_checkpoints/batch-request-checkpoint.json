@@ -1,0 +1,12 @@
+{
+  "items": {
+    "client_img_001": {
+      "image": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "top_k": 2
+    },
+    "client_img_002": {
+      "image": "MALFORMED_OR_CORRUPT_BASE64_STRING_77112233AAABBBCCCDDDEEEFFF",
+      "top_k": 5
+    }
+  }
+}
